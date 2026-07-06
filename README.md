@@ -2,7 +2,7 @@
 
 Autor: Rafael Dias
 
-Projeto desenvolvido para o desafio da DIO (Digital Innovation One): criação de um Caderno Temático com apoio do NotebookLM, demonstrando pesquisa, curadoria de fontes, engenharia de prompts, pensamento crítico e organização do conhecimento.
+Projeto desenvolvido para o desafio da DIO: criação de um Caderno Temático com apoio do NotebookLM, demonstrando pesquisa, curadoria de fontes, engenharia de prompts, pensamento crítico e organização do conhecimento.
 
 ## Introdução
 
