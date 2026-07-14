@@ -36,6 +36,21 @@ Ao mesmo tempo, o uso da IA exige cuidado. Sistemas de IA podem gerar respostas 
 - Criar glossário técnico com termos relevantes.
 - Criar biblioteca de prompts reutilizáveis para profissionais da qualidade.
 
+## Base de conhecimento
+
+O consultor foi desenvolvido a partir de uma base de conhecimento composta por mais de 30 fontes técnicas, incluindo:
+
+- ISO 9000
+- ISO 9001
+- ISO 19011
+- ISO 31000
+- ISO/IEC 42001
+- Lean Enterprise Institute
+- Business Excellence Hub
+- Institute for Healthcare Improvement (IHI)
+- Artigos sobre CEP, OEE, TPM, Six Sigma, DMAIC, FMEA, MASP, Qualidade 4.0 e IA aplicada à indústria.
+- Documentação própria desenvolvida para o projeto, incluindo biblioteca de prompts, glossário técnico, miniguia de estudos e metodologia de atuação do consultor.
+
 ## Curadoria de Fontes
 
 | Fonte | Autor ou instituição | Link | Justificativa da escolha | Principais aprendizados |
