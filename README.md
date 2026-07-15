@@ -265,18 +265,4 @@ ia-aplicada-gestao-qualidade/
 4. Estude o miniguia como material consolidado.
 5. Reutilize a biblioteca de prompts em novos estudos, auditorias e projetos de melhoria.
 
-## Status
 
-✅ Projeto concluído
-
-✅ Curadoria de fontes realizada
-
-✅ Engenharia de prompts documentada
-
-✅ Miniguia consolidado
-
-✅ Glossário elaborado
-
-✅ Biblioteca de prompts disponível
-
-✅ Pronto para publicação e entrega na DIO
