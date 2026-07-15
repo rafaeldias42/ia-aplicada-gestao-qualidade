@@ -13,13 +13,13 @@ Principais conceitos:
 - Machine Learning: modelos que aprendem padrões a partir de dados.
 - Deep Learning: aprendizado com redes neurais profundas.
 - IA generativa: criação de textos, resumos, imagens, códigos e respostas.
-- NLP: processamento de linguagem natural usado para interpretar textos.
+- PNL: processamento de linguagem natural usado para interpretar textos.
 - Prompt: comando ou instrução fornecida à IA.
 - Alucinação: resposta incorreta produzida com aparência de confiança.
 
 ## Fundamentos da Gestão da Qualidade
 
-Gestão da Qualidade envolve planejar, controlar, avaliar e melhorar processos para atender requisitos e gerar satisfação do cliente. Entre seus fundamentos estão:
+A Gestão da Qualidade envolve planejar, controlar, avaliar e melhorar processos para atender aos requisitos e gerar satisfação do cliente. Entre seus fundamentos estão:
 
 - Foco no cliente.
 - Liderança.
@@ -49,7 +49,7 @@ Gestão da Qualidade envolve planejar, controlar, avaliar e melhorar processos p
 - NotebookLM: estudo com base em fontes selecionadas.
 - Planilhas: cálculos, tabelas, análise exploratória e indicadores.
 - Power BI: painéis de gestão e visualização de tendências.
-- Sistemas QMS: documentos, auditorias, CAPA e registros.
+- Sistemas SGQ: documentos, auditorias, CAPA e registros.
 - Ferramentas estatísticas: CEP, regressão, hipóteses e capacidade de processo.
 - Assistentes de IA corporativos: consulta a procedimentos internos e base de conhecimento.
 

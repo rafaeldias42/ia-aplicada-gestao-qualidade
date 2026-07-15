@@ -1,4 +1,4 @@
-# Engenharia de Prompts e Cicatrizes
+# Engenharia de Prompts e Ciclos de Refinamento
 
 Este arquivo registra cinco ciclos completos de refinamento de prompts. O objetivo é mostrar raciocínio, tentativa, erro, melhoria e aprendizado.
 

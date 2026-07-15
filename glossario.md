@@ -8,7 +8,7 @@
 | Deep Learning | Subárea de machine learning baseada em redes neurais profundas. |
 | Prompt | Instrução fornecida a um sistema de IA para orientar sua resposta. |
 | Engenharia de Prompts | Prática de estruturar comandos para obter respostas melhores de sistemas de IA. |
-| Hallucination | Resposta incorreta ou inventada produzida por IA com aparência de confiança. |
+| Alucinação | Resposta incorreta ou inventada produzida por IA com aparência de confiança. |
 | NotebookLM | Ferramenta de IA voltada ao estudo e exploração de fontes selecionadas. |
 | Governança de IA | Conjunto de políticas, responsabilidades e controles para uso seguro e responsável de IA. |
 | Viés Algorítmico | Tendência de um modelo produzir resultados distorcidos por dados ou regras enviesadas. |
